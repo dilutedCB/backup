@@ -65,14 +65,14 @@ local library = {
     open = false;
     opening = false;
     hasInit = false;
-    cheatname = startupArgs.cheatname or 'octohook';
-    gamename = startupArgs.gamename or 'universal';
+    cheatname = startupArgs.cheatname or 'pure.vip';
+    gamename = startupArgs.gamename or 'counterblox';
     fileext = startupArgs.fileext or '.txt';
 }
 
 library.themes = {
     {
-        name = 'Default',
+        name = 'main :3',
         theme = {
             ['Accent']                    = fromrgb(103,89,179);
             ['Background']                = fromrgb(22,22,31);
