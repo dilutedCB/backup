@@ -65,8 +65,8 @@ local library = {
     open = false;
     opening = false;
     hasInit = false;
-    cheatname = startupArgs.cheatname or 'pure.vip';
-    gamename = startupArgs.gamename or 'counterblox';
+    cheatname = startupArgs.cheatname or 'purevip';
+    gamename = startupArgs.gamename or 'cb';
     fileext = startupArgs.fileext or '.txt';
 }
 
